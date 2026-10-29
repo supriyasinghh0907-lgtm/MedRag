@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+streamlit==1.52.1
+PyMuPDF==1.26.6
+sentence-transformers==5.1.2
+faiss-cpu==1.13.1
+numpy==2.2.6
+openai==2.9.0
+markdown==3.7
